@@ -1,5 +1,3 @@
----
-
 ````md
 # Chapter 1: Object Oriented Programming using C++
 
